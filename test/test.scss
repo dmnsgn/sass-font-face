@@ -1,0 +1,9 @@
+@import "../_font-face.scss";
+
+$font-regular: 'Open Sans Regular';
+
+@include font-face($font-regular, 'fonts/', 'OpenSans-Regular-webfont', 'open_sansregular');
+
+.element {
+	font-family: $font-regular;
+}

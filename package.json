@@ -1,0 +1,21 @@
+{
+  "name": "sass-font-face",
+  "version": "1.0.0",
+  "description": "Font-face mixin for sass",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmnsgn/sass-font-face"
+  },
+  "keywords": [
+    "sass",
+    "fontface",
+    "scss",
+    "mixin"
+  ],
+  "author": "Damien Seguin <dmnsgn@gmail.com> (http://dmnsgn.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnsgn/sass-font-face/issues"
+  },
+  "homepage": "https://github.com/dmnsgn/sass-font-face"
+}
