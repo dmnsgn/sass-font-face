@@ -9,7 +9,7 @@ $ npm install sass-font-face --save
 
 ## Usage
 
-```css
+```SCSS
 @import "../node_modules/sass-font-face/_font-face.scss";
 
 $font-regular: 'Open Sans Regular';
