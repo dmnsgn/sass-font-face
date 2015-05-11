@@ -1,6 +1,6 @@
 {
   "name": "sass-font-face",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Font-face mixin for sass",
   "repository": {
     "type": "git",
