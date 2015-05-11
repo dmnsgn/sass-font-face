@@ -1,5 +1,6 @@
 {
   "name": "sass-font-face",
+  "main": "_font-face.scss",
   "version": "1.0.0",
   "description": "Font-face mixin for sass",
   "repository": {
